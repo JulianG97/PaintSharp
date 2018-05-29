@@ -1,6 +1,8 @@
 # PaintSharp
 A simple drawing application written in C#
 
+![alt text](https://raw.githubusercontent.com/JulianG97/PaintSharp/master/logo.png)
+
 ## Features
 * Draw forms like rectangles, ellipses, circles, triangles and lines
 * Draw freehand
